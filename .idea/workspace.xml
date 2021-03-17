@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21ed8f04-2708-4803-84f3-824f7e512e9a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../nethernite-test/src/components/HeaderSearch.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/base.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Food-udemy/js/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Food-udemy/src/js/modules/calculator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Food-udemy/src/js/modules/cards.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Food-udemy/src/js/modules/forms.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Food-udemy/src/js/modules/modal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Food-udemy/src/js/modules/slider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Food-udemy/src/js/modules/tabs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Food-udemy/src/js/modules/timer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDA/components/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../IDA/components/Header.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDA/layouts/error.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../IDA/layouts/error.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDA/pages/_id.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../IDA/pages/_id.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDA/theme/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../IDA/theme/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ad-project/src/components/Ads/Ad.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../ad-project/src/components/Ads/Ad.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ad-project/src/components/Ads/AdList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../ad-project/src/components/Ads/AdList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ad-project/src/components/Ads/NewAdd.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ad-project/src/components/Auth/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../ad-project/src/components/Auth/Login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ad-project/src/components/Auth/Registration.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../ad-project/src/components/Auth/Registration.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ad-project/src/components/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../ad-project/src/components/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ad-project/src/components/User/Orders.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../ad-project/src/components/User/Orders.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ad-project/src/router/auth-guard.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ad-project/src/router/auth-guard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ad-project/src/store/ads.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ad-project/src/store/ads.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ad-project/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ad-project/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ad-project/src/store/shared.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ad-project/src/store/shared.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ad-project/src/store/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ad-project/src/store/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/src/pug/layouts/mixins.pug" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/src/pug/layouts/mixins.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/src/pug/mixins/button-read-more.pug" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/src/pug/mixins/button-read-more.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/src/pug/mixins/footer-nav.pug" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/src/pug/mixins/footer-nav.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/src/pug/mixins/post-widget.pug" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/src/pug/mixins/post-widget.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/src/pug/mixins/post.pug" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/src/pug/mixins/post.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/src/pug/mixins/widget-instagram.pug" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/src/pug/mixins/widget-instagram.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/src/pug/mixins/widget.pug" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/src/pug/mixins/widget.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/src/pug/sections/footer.pug" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/src/pug/sections/footer.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/src/pug/sections/header.pug" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/src/pug/sections/header.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/src/pug/sections/pagination.pug" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/src/pug/sections/pagination.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/src/pug/sections/popular-post.pug" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/src/pug/sections/popular-post.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/src/pug/sections/recent-posts.pug" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/src/pug/sections/recent-posts.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/src/pug/sections/share-icons.pug" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/src/pug/sections/share-icons.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/src/pug/sections/social-icon.pug" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/src/pug/sections/social-icon.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/src/pug/sections/widget-instagram.pug" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/src/pug/sections/widget-instagram.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/src/scss/blocks/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/src/scss/blocks/_buttons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/src/scss/blocks/_copyright.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/src/scss/blocks/_copyright.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/src/scss/blocks/_footer-nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/src/scss/blocks/_footer-nav.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/src/scss/blocks/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/src/scss/blocks/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/src/scss/blocks/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/src/scss/blocks/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/src/scss/blocks/_logo.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/src/scss/blocks/_logo.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/src/scss/blocks/_pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/src/scss/blocks/_pagination.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/src/scss/blocks/_post-widget.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/src/scss/blocks/_post-widget.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/src/scss/blocks/_post.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/src/scss/blocks/_post.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/src/scss/blocks/_share-icons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/src/scss/blocks/_share-icons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/src/scss/blocks/_social-icons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/src/scss/blocks/_social-icons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/src/scss/blocks/_widget.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/src/scss/blocks/_widget.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../excel/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/../excel/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../excel/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../excel/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../excel/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../excel/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../excel/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../excel/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTunes/scripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../iTunes/scripts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTunes/scripts/musicPlayer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../iTunes/scripts/musicPlayer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTunes/scripts/radioPlayer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../iTunes/scripts/radioPlayer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iTunes/scripts/videoPlayer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../iTunes/scripts/videoPlayer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nuxt-theory/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../nuxt-theory/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nuxt-theory/components/Navbar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../nuxt-theory/components/Navbar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nuxt-theory/layout/default.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nuxt-theory/nuxt.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../nuxt-theory/nuxt.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nuxt-theory/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../nuxt-theory/pages/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nuxt-theory/pages/login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../nuxt-theory/pages/login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nuxt-theory/pages/users/_id.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../nuxt-theory/pages/users/_id.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nuxt-theory/pages/users/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../nuxt-theory/pages/users/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-project/src/Actions.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../vue-project/src/Actions.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-project/src/Counter.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../vue-project/src/Counter.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-project/src/SecondCounter.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../vue-project/src/SecondCounter.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-project/src/store/counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue-project/src/store/counter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-project/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue-project/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../weather/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../weather/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../weather/requests/weather.request.js" beforeDir="false" afterPath="$PROJECT_DIR$/../weather/requests/weather.request.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../weather/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/../weather/views/index.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webCademuPro/app/pug/pages/index.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webCademuPro/src/js/main.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ptcwASMynaR1Izu2BNrYa5HIPu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21ed8f04-2708-4803-84f3-824f7e512e9a" name="Default Changelist" comment="" />
+      <created>1616006083426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616006083426</updated>
+      <workItem from="1616006093597" duration="2769000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
