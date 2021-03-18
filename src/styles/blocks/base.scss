@@ -6,10 +6,38 @@ $lightGray: #EDF0F5;
 
 body {
   background-color: #F9FBFF;
-  min-height: 100vh;
   width: 100%;
   font-family: 'Nunito';
   font-weight: 400;
+}
+
+.section {
+  position: relative;
+  padding: 90px 0 128px 0;
+  text-align: center;
+  color: $primaryColor;
+
+  &__contents {
+    margin-bottom: 60px;
+  }
+
+  .subtitle {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    display: inline-block;
+    text-transform: capitalize;
+  }
+
+  &__title {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 34px;
+    margin-top: 8px;
+    text-transform: uppercase;
+  }
 }
 
 .blue-rectangle:before {
@@ -25,4 +53,26 @@ body {
   right: 0;
   width: 100%;
   z-index: -1;
+}
+
+#phinMyMau.blue-rectangle:before {
+  width: 384px;
+  left: 0;
+  right: auto;
+}
+
+.titleCard {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+  color: #232C38;
+}
+
+.text {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 22px;
+  color: $darkGrey;
 }

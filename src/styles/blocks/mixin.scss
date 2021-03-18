@@ -1,0 +1,92 @@
+@mixin button {
+  background: $accentColorAurum;
+  border-radius: 19px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 22px;
+  text-align: center;
+  color: #F9FBFF;
+}
+
+@mixin cardItem ($flexDirection, $displayFilter, $maxWidth, $imgWidth, $imgHeaght, $displayOldPrice: none) {
+  display: flex;
+  flex-direction: $flexDirection;
+  filter: $displayFilter;
+
+  .old-price {
+    display: $displayOldPrice;
+  }
+
+  max-width: $maxWidth;
+  width: 100%;
+
+  &__img {
+    width: $imgWidth;
+    height: $imgHeaght;
+
+    picture {
+      width: $imgWidth;
+      height: $imgHeaght;
+      display: inline-block;
+      background: #EDF0F5;
+
+      img, source {
+        height: 100%;
+        width: 100%;
+      }
+    }
+  }
+
+  &__info {
+    padding: 42px 42px 42px 45px;
+    text-align: left;
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+
+    .titleCard {
+      margin: 8px 0 24px;
+    }
+  }
+
+  &__price {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.2;
+    color: $accentColorAurum;
+  }
+
+  &__footer {
+    margin-top: 32px;
+
+    input {
+      padding: 8px 16px;
+      background: $accentColorAurum;
+      border-radius: 19px;
+      border: 0px;
+      outline: none;
+      cursor: pointer;
+      margin-right: 3px;
+      color: #fff;
+    }
+
+    span {
+      float: right;
+      padding-top: 5px;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 16px;
+      line-height: 1.4;
+    }
+  }
+}
+
+@mixin headerVideoPseudoElement {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  cursor: pointer;
+}

@@ -27,7 +27,8 @@
     "gulp-svgmin": "^3.0.0",
     "gulp-tinypng-nokey": "^1.1.0",
     "gulp-uglify": "^3.0.2",
-    "gulp-webp": "^4.0.1"
+    "gulp-webp": "^4.0.1",
+    "swiper": "^6.5.0"
   },
   "devDependencies": {
     "gulp": "^4.0.2"
