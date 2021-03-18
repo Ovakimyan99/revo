@@ -23,65 +23,65 @@ const gulp = require('gulp'),
     webp = require('gulp-webp');
 
 
-/* FILES PATHS /wp-content/themes/twentytwenty-child/*/
+/* FILES PATHS */
 
 const paths = {
     prod: {
         build: './build'
     },
     html: {
-        src: './src/pages/*.pug',
+        src: './src/*.html',
         dest: './build',
-        watch: ['./src/blocks/**/*.pug', './src/mixins-pug/**/*.pug', './src/pages/**/*.pug', './src/sections/**/*.pug']
+        watch: ['./src/*.html']
     },
     css: {
         src: './src/styles/main.scss',
-        dest: './build/wp-content/themes/twentytwenty-child/css',
-        watch: ['./src/blocks/**/*.scss', './src/sections/**/*.scss', './src/styles/**/*.scss', './src/css-libraries/**/*', '!./src/css-plugins/**/*', '/build/wp-content/themes/twentytwenty-child/css/*.css']
+        dest: './build/css',
+        watch: ['./src/styles/**/*.scss']
     },
     cssPlugins: {
         src: './src/css-plugins/**/*',
-        dest: './build/wp-content/themes/twentytwenty-child/css',
+        dest: './build/css-plugins',
         watch: './src/css-plugins/**/*'
     },
     js: {
-        src: ['./src/js/libraries/**/*.js',  './src/js/custom/**/*.js', 'node_modules/svgxuse/svgxuse.min.js'],
-        dest: './build/wp-content/themes/twentytwenty-child/js',
-        watch: ['./src/js/libraries/**/*.js', './src/js/custom/**/*.js', ]
+        src: ['./src/js/**/*.js'],
+        dest: './build/js',
+        watch: ['./src/js/**/*.js']
     },
     jsPlugins: {
         src: './src/js/plugins/**/*.js',
-        dest: './build/wp-content/themes/twentytwenty-child/js',
+        dest: './build/js/plugins',
         watch: './src/js/plugins/**/*.js'
     },
     images: {
         src: ['./src/img/**/*', '!./src/img/**/*.svg', '!./src/img/**/*.webp'],
-        dest: './build/wp-content/themes/twentytwenty-child/img',
+        dest: './build/img',
         watch: ['./src/img/**/*', '!./src/img/**/*.svg', '!./src/img/**/*.webp']
     },
     webpImages: {
         src: './src/img/**/*.webp',
-        dest: './build/wp-content/themes/twentytwenty-child/img',
+        dest: './build/img',
         watch: './src/img/**/*.webp'
     },
     svgSprite: {
         src: './src/img/icons/**/*.svg',
-        dest: './build/wp-content/themes/twentytwenty-child/img/icons',
+        dest: './build/icons',
         watch: './src/img/icons/**/*.svg'
     },
     svg: {
         src: ['./src/img/**/*.svg', '!./src/img/icons/**/*.svg'],
-        dest: './build/wp-content/themes/twentytwenty-child/img/icons',
+        dest: './build/svg',
         watch: ['./src/img/**/*.svg', '!./src/img/icons/**/*.svg']
     },
     fonts: {
         src: './src/fonts/**/*',
-        dest: './build/wp-content/themes/twentytwenty-child/fonts',
+        dest: './build/fonts',
         watch: './src/fonts/**/*'
     },
     php: {
         src: './src/php/**/*.php',
-        dest: './build/wp-content/themes/twentytwenty-child/php',
+        dest: './build/php',
         watch: './src/php/**/*.php'
     }
 };
@@ -90,10 +90,10 @@ const paths = {
 
 gulp.task('html', () => {
     return gulp.src(paths.html.src)
-        .pipe(plumber())
-        .pipe(pug({
-            pretty: true
-        }))
+        // .pipe(plumber())
+        // .pipe(pug({
+        //     pretty: true
+        // }))
         .pipe(htmlhint())
         .pipe(htmlhint.reporter())
         .pipe(htmlhint.failOnError())
@@ -138,7 +138,7 @@ gulp.task('cssPlugins', () => {
 gulp.task('scripts', () => {
     return gulp.src(paths.js.src)
         .pipe(plumber())
-        //.pipe(sourcemaps.init())
+        .pipe(sourcemaps.init())
         .pipe(babel({
             presets: ['@babel/preset-env']
         }))

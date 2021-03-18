@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="21ed8f04-2708-4803-84f3-824f7e512e9a" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../nethernite-test/src/components/HeaderSearch.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/blocks/fonts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/blocks/mixin.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Food-udemy/js/webpack.config.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Food-udemy/src/js/modules/calculator.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Food-udemy/src/js/modules/cards.js" beforeDir="false" />
@@ -71,6 +72,12 @@
       <change beforePath="$PROJECT_DIR$/../nuxt-theory/pages/login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../nuxt-theory/pages/login.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../nuxt-theory/pages/users/_id.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../nuxt-theory/pages/users/_id.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../nuxt-theory/pages/users/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../nuxt-theory/pages/users/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gilpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/base.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../vue-project/src/Actions.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../vue-project/src/Actions.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../vue-project/src/Counter.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../vue-project/src/Counter.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../vue-project/src/SecondCounter.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../vue-project/src/SecondCounter.vue" afterDir="false" />
@@ -91,7 +98,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ptcwASMynaR1Izu2BNrYa5HIPu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -108,7 +115,13 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Тигран\Desktop\web\OSPanel\domains\revo\src\css\blocks" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -118,7 +131,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616006083426</updated>
-      <workItem from="1616006093597" duration="2769000" />
+      <workItem from="1616006093597" duration="12092000" />
+      <workItem from="1616054890294" duration="12691000" />
     </task>
     <servers />
   </component>

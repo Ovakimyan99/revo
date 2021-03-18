@@ -1,0 +1,28 @@
+$primaryColor: #415167;
+$accentColorAurum: #C7A17A;
+$accentColorYellow: #F9F5E8;
+$darkGrey: #151D28;
+$lightGray: #EDF0F5;
+
+body {
+  background-color: #F9FBFF;
+  min-height: 100vh;
+  width: 100%;
+  font-family: 'Nunito';
+  font-weight: 400;
+}
+
+.blue-rectangle:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  height: 100%;
+  background: #415167;
+}
+
+.header .blue-rectangle:before {
+  right: 0;
+  width: 100%;
+  z-index: -1;
+}
